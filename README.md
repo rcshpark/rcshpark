@@ -5,6 +5,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rcshpark&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight)](https://github.com/rcshpark/github-readme-stats)
   
 <br/>
+<br/>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -13,6 +14,7 @@
     </a>
 </div>
 
+<br/>
 <br/>
 
 ##  💻 Tech Stack 💻
@@ -24,6 +26,7 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
  
 <br/>
+<br/>
 
 ## 🧰 Tools 🧰
 <div style="display:flex; flex-direction:row;">
@@ -33,6 +36,7 @@
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
 
+<br/>
 <br/>
 
 </div>
